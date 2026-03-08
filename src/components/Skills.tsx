@@ -23,7 +23,7 @@ const skillCategories = [
     title: 'CI/CD & VCS',
     icon: <Terminal className="w-6 h-6 text-green-400" />,
     skills: [
-      { name: 'GitHub Actions', logo: '/public/icons/github action.png' },
+      { name: 'GitHub Actions', logo: '/icons/github action.png' },
       { name: 'Jenkins', logo: '/icons/jenkins.svg' },
       { name: 'Azure DevOps', logo: '/icons/azuredevops.svg' },
       { name: 'Git', logo: '/icons/git.svg' },
