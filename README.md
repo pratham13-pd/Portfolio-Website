@@ -11,8 +11,8 @@ prathamesh@sys:~$ whoami
 prathamesh.dhage111@gmail.com
 
 prathamesh@sys:~$ cat mission_statement.txt
-"Full-stack engineer, system architect, and UI/UX enthusiast. 
-Building scalable, high-performance web applications."
+☁️ DevOps Engineer
+⚡ Making deployments faster, infrastructure smarter, and systems scalable.
 ```
 
 ## ⚙️ SYSTEM_ARCHITECTURE
@@ -57,7 +57,7 @@ Ping me on any of the following protocols:
 
 - **[MAILTO]** `prathamesh.dhage111@gmail.com`
 - **[LINKEDIN]** `linkedin.com/in/prathameshdhage`
-- **[GITHUB]** `github.com/yourusername`
+- **[GITHUB]** `github.com/pratham13-pd`
 - **[X/TWITTER]** `@yourhandle`
 
 ---
