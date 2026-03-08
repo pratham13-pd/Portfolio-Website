@@ -1,20 +1,104 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🚀 Welcome to My Portfolio Website
 
-# Run and deploy your AI Studio app
+![GitHub
+stars](https://img.shields.io/github/stars/yourusername/portfolio?style=social)
+![GitHub
+forks](https://img.shields.io/github/forks/yourusername/portfolio?style=social)
+![GitHub last
+commit](https://img.shields.io/github/last-commit/yourusername/portfolio)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername.portfolio)
 
-This contains everything you need to run your app locally.
+------------------------------------------------------------------------
 
-View your app in AI Studio: https://ai.studio/apps/817b67e6-2778-4ca0-8d19-626b49a7ba28
+## 👋 Hey there!
 
-## Run Locally
+Welcome to my **personal portfolio website repository**.
 
-**Prerequisites:**  Node.js
+This project is my small space on the internet where I showcase: - 🚀
+Projects I've built - ☁️ Cloud & DevOps experiments - ⚙️ Automation
+work - 🧠 Things I'm currently learning
 
+Think of it as my **digital playground for building cool stuff.**
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+------------------------------------------------------------------------
+
+## 🌐 Live Website
+
+🔗 Add your portfolio link here\
+Example: https://yourusername.github.io/portfolio
+
+------------------------------------------------------------------------
+
+## 🛠 Tech Stack
+
+This portfolio was built using:
+
+-   HTML
+-   CSS
+-   JavaScript
+-   Git & GitHub
+-   GitHub Pages
+
+Simple stack, clean design, fast loading ⚡
+
+------------------------------------------------------------------------
+
+## 📂 Project Structure
+
+    portfolio-website
+    │
+    ├── index.html
+    ├── style.css
+    ├── script.js
+    ├── assets/
+    │   ├── images
+    │   └── icons
+    └── README.md
+
+------------------------------------------------------------------------
+
+## ⚡ Running Locally
+
+Clone the repository and open it locally.
+
+``` bash
+git clone https://github.com/yourusername/portfolio.git
+cd portfolio
+open index.html
+```
+
+------------------------------------------------------------------------
+
+## ✨ Features
+
+-   Clean responsive UI
+-   Project showcase section
+-   Skills section
+-   Contact links
+-   Fast and lightweight
+
+------------------------------------------------------------------------
+
+## 🔮 Future Improvements
+
+Things I plan to add:
+
+-   🌙 Dark Mode
+-   📝 Blog section
+-   📊 DevOps architecture diagrams
+-   🎥 Project demos
+-   ⚙️ CI/CD deployment
+
+------------------------------------------------------------------------
+
+## 🤝 Let's Connect
+
+If you like the project or want to collaborate:
+
+-   💼 LinkedIn
+-   🐙 GitHub
+-   📧 Email
+
+------------------------------------------------------------------------
+
+⭐ If you like this project, consider **starring the repository!**
