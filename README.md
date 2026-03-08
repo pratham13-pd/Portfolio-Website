@@ -1,72 +1,66 @@
 <div align="center">
-  <h1>🚀 Prathamesh Dhage | Personal Portfolio</h1>
-  <p>Welcome to the repository of my personal portfolio website! This space showcases my projects, skills, and journey as a developer.</p>
-
-  <img src="https://picsum.photos/seed/portfolio/800/400?blur=2" alt="Portfolio Preview" width="100%" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge&logo=terminal" alt="Status" />
+  <img src="https://img.shields.io/badge/VERSION-1.0.0-blue?style=for-the-badge" alt="Version" />
+  <img src="https://img.shields.io/badge/UPTIME-99.99%25-success?style=for-the-badge" alt="Uptime" />
 </div>
 
-<br />
+# ⚡ [SYS.INIT] // PRATHAMESH_DHAGE_PORTFOLIO
 
-## ✨ Features
+```bash
+prathamesh@sys:~$ whoami
+prathamesh.dhage111@gmail.com
 
-- **Modern UI/UX:** Clean, minimalist, and fully responsive design.
-- **Interactive Animations:** Smooth transitions and micro-interactions.
-- **Project Showcase:** Detailed case studies of my recent work.
-- **Contact Form:** Direct messaging capability.
-- **Dark/Light Mode:** Seamless theme switching for better accessibility.
+prathamesh@sys:~$ cat mission_statement.txt
+"Full-stack engineer, system architect, and UI/UX enthusiast. 
+Building scalable, high-performance web applications."
+```
 
-## 🛠️ Tech Stack
+## ⚙️ SYSTEM_ARCHITECTURE
 
-- **Framework:** [React 19](https://react.dev/) + [Vite](https://vitejs.dev/)
-- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-- **Animations:** [Motion](https://motion.dev/)
-- **Icons:** [Lucide React](https://lucide.dev/)
-- **AI Integration:** [Google Gemini API](https://ai.google.dev/)
+This repository contains the source code for my personal portfolio, engineered for maximum performance, clean code architecture, and a seamless developer/user experience.
 
-## 🚀 Getting Started
+### 📦 CORE_DEPENDENCIES
 
-To run this project locally, follow these steps:
+| Module | Version | Description |
+| :--- | :--- | :--- |
+| **React** | `v19.0.0` | UI Rendering Engine |
+| **Vite** | `v6.2.0` | High-speed Build Tool |
+| **Tailwind CSS** | `v4.1.14` | Utility-first Styling Framework |
+| **Motion** | `v12.23.24` | Physics-based Animation Engine |
+| **Gemini API** | `v1.29.0` | Neural Network / AI Integration |
 
-### Prerequisites
-Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
+## 🚀 BOOT_SEQUENCE (Local Setup)
 
-### Installation
+Execute the following commands to initialize the environment locally:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/portfolio.git
-   ```
+```bash
+# 1. Clone the repository
+git clone https://github.com/yourusername/portfolio.git
 
-2. Navigate to the project directory:
-   ```bash
-   cd portfolio
-   ```
+# 2. Access the directory
+cd portfolio
 
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
+# 3. Install node modules
+npm install
 
-4. Set up environment variables:
-   Create a `.env` file in the root directory and add your keys (refer to `.env.example`).
-   ```env
-   GEMINI_API_KEY="your_api_key_here"
-   ```
+# 4. Configure environment variables
+cp .env.example .env
+echo 'GEMINI_API_KEY="your_api_key_here"' >> .env
 
-5. Start the development server:
-   ```bash
-   npm run dev
-   ```
+# 5. Ignite the development server
+npm run dev
+```
 
-## 📫 Get In Touch
+## 📡 ESTABLISH_CONNECTION
 
-- **Email:** prathamesh.dhage111@gmail.com
-- **LinkedIn:** [linkedin.com/in/prathameshdhage](#)
-- **GitHub:** [github.com/yourusername](#)
-- **Twitter/X:** [@yourhandle](#)
+Ping me on any of the following protocols:
+
+- **[MAILTO]** `prathamesh.dhage111@gmail.com`
+- **[LINKEDIN]** `linkedin.com/in/prathameshdhage`
+- **[GITHUB]** `github.com/yourusername`
+- **[X/TWITTER]** `@yourhandle`
 
 ---
-
 <div align="center">
-  ⭐️ Designed and built by Prathamesh Dhage
+  <i>System designed and engineered by Prathamesh Dhage. // EOF</i>
 </div>
