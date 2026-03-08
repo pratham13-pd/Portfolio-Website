@@ -1,104 +1,72 @@
-# 🚀 Welcome to My Portfolio Website
+<div align="center">
+  <h1>🚀 Prathamesh Dhage | Personal Portfolio</h1>
+  <p>Welcome to the repository of my personal portfolio website! This space showcases my projects, skills, and journey as a developer.</p>
 
-![GitHub
-stars](https://img.shields.io/github/stars/yourusername/portfolio?style=social)
-![GitHub
-forks](https://img.shields.io/github/forks/yourusername/portfolio?style=social)
-![GitHub last
-commit](https://img.shields.io/github/last-commit/yourusername/portfolio)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername.portfolio)
+  <img src="https://picsum.photos/seed/portfolio/800/400?blur=2" alt="Portfolio Preview" width="100%" />
+</div>
 
-------------------------------------------------------------------------
-
-## 👋 Hey there!
-
-Welcome to my **personal portfolio website repository**.
-
-This project is my small space on the internet where I showcase: - 🚀
-Projects I've built - ☁️ Cloud & DevOps experiments - ⚙️ Automation
-work - 🧠 Things I'm currently learning
-
-Think of it as my **digital playground for building cool stuff.**
-
-------------------------------------------------------------------------
-
-## 🌐 Live Website
-
-🔗 Add your portfolio link here\
-Example: https://yourusername.github.io/portfolio
-
-------------------------------------------------------------------------
-
-## 🛠 Tech Stack
-
-This portfolio was built using:
-
--   HTML
--   CSS
--   JavaScript
--   Git & GitHub
--   GitHub Pages
-
-Simple stack, clean design, fast loading ⚡
-
-------------------------------------------------------------------------
-
-## 📂 Project Structure
-
-    portfolio-website
-    │
-    ├── index.html
-    ├── style.css
-    ├── script.js
-    ├── assets/
-    │   ├── images
-    │   └── icons
-    └── README.md
-
-------------------------------------------------------------------------
-
-## ⚡ Running Locally
-
-Clone the repository and open it locally.
-
-``` bash
-git clone https://github.com/yourusername/portfolio.git
-cd portfolio
-open index.html
-```
-
-------------------------------------------------------------------------
+<br />
 
 ## ✨ Features
 
--   Clean responsive UI
--   Project showcase section
--   Skills section
--   Contact links
--   Fast and lightweight
+- **Modern UI/UX:** Clean, minimalist, and fully responsive design.
+- **Interactive Animations:** Smooth transitions and micro-interactions.
+- **Project Showcase:** Detailed case studies of my recent work.
+- **Contact Form:** Direct messaging capability.
+- **Dark/Light Mode:** Seamless theme switching for better accessibility.
 
-------------------------------------------------------------------------
+## 🛠️ Tech Stack
 
-## 🔮 Future Improvements
+- **Framework:** [React 19](https://react.dev/) + [Vite](https://vitejs.dev/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Animations:** [Motion](https://motion.dev/)
+- **Icons:** [Lucide React](https://lucide.dev/)
+- **AI Integration:** [Google Gemini API](https://ai.google.dev/)
 
-Things I plan to add:
+## 🚀 Getting Started
 
--   🌙 Dark Mode
--   📝 Blog section
--   📊 DevOps architecture diagrams
--   🎥 Project demos
--   ⚙️ CI/CD deployment
+To run this project locally, follow these steps:
 
-------------------------------------------------------------------------
+### Prerequisites
+Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
-## 🤝 Let's Connect
+### Installation
 
-If you like the project or want to collaborate:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/portfolio.git
+   ```
 
--   💼 LinkedIn
--   🐙 GitHub
--   📧 Email
+2. Navigate to the project directory:
+   ```bash
+   cd portfolio
+   ```
 
-------------------------------------------------------------------------
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-⭐ If you like this project, consider **starring the repository!**
+4. Set up environment variables:
+   Create a `.env` file in the root directory and add your keys (refer to `.env.example`).
+   ```env
+   GEMINI_API_KEY="your_api_key_here"
+   ```
+
+5. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+## 📫 Get In Touch
+
+- **Email:** prathamesh.dhage111@gmail.com
+- **LinkedIn:** [linkedin.com/in/prathameshdhage](#)
+- **GitHub:** [github.com/yourusername](#)
+- **Twitter/X:** [@yourhandle](#)
+
+---
+
+<div align="center">
+  ⭐️ Designed and built by Prathamesh Dhage
+</div>
