@@ -45,7 +45,7 @@ const skillCategories = [
       { name: 'Prometheus', logo: '/icons/prometheus.svg' },
       { name: 'Grafana', logo: '/icons/grafana.svg' },
       { name: 'SonarQube', logo: '/icons/sonarqube.svg' },
-      { name: 'Power BI', logo: '/public/icons/PowerBIlogo.png' },
+      { name: 'Power BI', logo: '/icons/PowerBIlogo.png' },
     ],
   },
   {
