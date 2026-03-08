@@ -8,7 +8,7 @@ const certifications = [
   },
   {
     name: 'Microsoft Certified Azure Administrator – Associate (AZ-104)',
-    logo: '/public/icons/azure-administrator-associate.png'
+    logo: '/icons/azure-administrator-associate.png'
   },
   {
     name: 'AWS Certified Cloud Practitioner (CLF-C02)',
@@ -16,11 +16,11 @@ const certifications = [
   },
   {
     name: 'Microsoft Azure Fundamentals (AZ-900)',
-    logo: '/public/icons/azure fundamental.png'
+    logo: '/icons/azure fundamental.png'
   },
   {
     name: 'Microsoft Certified: Power BI Data Analyst Associate (PL-300)',
-    logo: '/public/icons/power bi.png'
+    logo: '/icons/power bi.png'
   }
 ];
 
