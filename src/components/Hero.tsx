@@ -40,7 +40,7 @@ export default function Hero() {
             <motion.a
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
-              href="/resume.pdf"
+              href="/icons/resume.pdf"
               target="_blank"
               className="inline-flex items-center gap-2 px-6 py-3 rounded-lg bg-white/5 hover:bg-white/10 border border-white/10 text-text font-medium transition-colors"
             >
